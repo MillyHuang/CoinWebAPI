@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2sMhcR6NrWCXDNBe/bMtRJ/rQq07DV9nAxs1S01Xofg=",
+  "Source": "CoinWebAPI",
+  "BasePath": "_content/CoinWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
